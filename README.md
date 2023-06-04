@@ -1,4 +1,4 @@
-# Microsoft Activation Scripts by m00nl1ghts.
+# Microsoft Activation Scripts by 0x6ff.
 
 
 | Versions | Supported         |
